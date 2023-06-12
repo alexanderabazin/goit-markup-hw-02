@@ -1,0 +1,252 @@
+/*---------------------------------------AllPAGE-CSS-----------------------------------------------------*/
+.list {
+  list-style: none;
+}
+.link {
+  text-decoration: none;
+}
+/*-----------------------------------------BODY-CSS-------------------------------------------------------*/
+.site-body {
+}
+body {
+}
+/*-----------------------------------------HEADER-CSS-----------------------------------------------------*/
+.header-mail-link {
+}
+.header-mail-link {
+}
+.header-item {
+}
+.header {
+}
+.header-navigation {
+}
+.header-logo.link {
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.16;
+  letter-spacing: 0.03em;
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+.header-logo-2 {
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.16;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #2e2f42;
+}
+.header-list.list {
+}
+.header-link.link {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.header-link:hover {
+  color: #404bbf;
+}
+.header-link:focus {
+  color: #404bbf;
+}
+.header-adress {
+}
+.header-adress-list.list {
+}
+.header-mail-link.link {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.header-mail-link:hover {
+  color: #404bbf;
+}
+.header-mail-link:focus {
+  color: #404bbf;
+}
+.header-tel-link.link {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+/*-----------------------------------------MAIN-CSS----------------------------------------------*/
+.site-main {
+}
+.section-one-title {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 60px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+
+.button-section-one {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  background-color: #4d5ae5;
+  cursor: pointer;
+}
+.button-section-one :hover {
+  background-color: #404bbf;
+}
+.button-list-portfolio{}
+.button-list{}
+.button-portfolio{
+  width: 69px;
+height: 48px;
+background: #404BBF;
+box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+border-radius: 4px;
+color: #FFFFFF;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.04em;
+}
+.button-portfolio:hover{
+  color: #404BBF;}
+.section-two-title {
+}
+.section-two-list.list {
+}
+.section-two-benefits {
+}
+.section-two-benefits-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.hidden-text{
+
+}
+.specific-text{}
+.img-specific{}
+.specific-items{}
+
+
+.img-list-portfolio{}
+.
+.section-two-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.section-three-specifictitle {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 40px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+.section-three-img {
+}
+.section-three-img-list.list {
+}
+.section-three-img-items {
+}
+.section-four-teamtitle {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 40px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+.section-four-teamlist.list {
+}
+.section-four-teamimg {
+}
+.section-four-img {
+}
+.section-four-team {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.section-four-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+/*---------------------------------------Section selector------------------------------------*/
+
+.section-one {
+  width: 1440px;
+  height: 600px;
+  left: 0px;
+  top: 72px;
+  background: #2e2f42;
+}
+.section-two {
+}
+.section-three {
+}
+.section-four {
+}
+
+/*------------------------------------------FOOTER-CSS---------------------------------------*/
+
+.footer {
+  background-color: #2e2f42;
+}
+.footer-logo {
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 0.03em;
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+.header-logo-2-footer {
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #f4f4fd;
+}
+.footer-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
