@@ -11,7 +11,7 @@
 body {
   color: #434455;
   background-color: #FFFFFF ;
-  font-family: "Roboto", sans-serif
+  font-family: "Roboto", sans-serif;
   }
 /*-----------------------------------------HEADER-CSS-----------------------------------------------------*/
 .header-mail-link {
@@ -33,7 +33,7 @@ body {
   align-items: center;
   text-transform: uppercase;
   color: #4d5ae5;
-  font-family: "Raleway", sans-serif
+  font-family: "Raleway", sans-serif;
 }
 .header-logo-2 {
   font-weight: 800;
@@ -115,25 +115,36 @@ background-color: #404BBF;
 .button-section-one :focus{
   background-color: #404BBF
 }
-.button-list-portfolio{}
-.button-list{}
+
+.button-list.list{}
 .button-portfolio{
-  width: 69px;
+cursor: pointer;
+width: 69px;
 height: 48px;
-background: #404BBF;
+background-color: #F4F4FD;
 box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
 border-radius: 4px;
 color: #FFFFFF;
+color: #4d5ae5;
 font-weight: 500;
 font-size: 16px;
-line-height: 24px;
+line-height: 1.5;
+letter-spacing: 0.04em;
 display: flex;
 align-items: center;
 text-align: center;
-letter-spacing: 0.04em;
+font-family: "Roboto", sans-serif
+
+
 }
 .button-portfolio:hover{
-  color: #404BBF;}
+  color: #FFFFFF;
+  background-color: #404BBF}
+.button-portfolio:focus{
+  color: #FFFFFF;
+  background-color: #404BBF
+  
+}
 .section-two-title {
 }
 .section-two-list.list {
@@ -147,14 +158,11 @@ letter-spacing: 0.04em;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.hidden-text{
-
-}
 .specific-text{}
 .img-specific{}
 .specific-items{}
 
-
+.hidden-portfolio{}
 .img-list-portfolio{}
 .
 .section-two-text {
@@ -169,7 +177,7 @@ letter-spacing: 0.04em;
   font-weight: 700;
   font-size: 36px;
   letter-spacing: 0.02em
-  text-align: center;
+  text-align : center;
   text-transform: capitalize;
   color: #2e2f42;
   line-height: 1.11;
@@ -229,6 +237,7 @@ letter-spacing: 0.04em;
 .section-four {
   background-color: #F4F4FD
 }
+.section-portfolio
 
 /*------------------------------------------FOOTER-CSS---------------------------------------*/
 
@@ -242,21 +251,19 @@ letter-spacing: 0.04em;
   letter-spacing: 0.03em;
   display: flex;
   align-items: center;
-  text-decoration: none;
   text-transform: uppercase;
   color: #4d5ae5;
-  font-family: 'Raleway', sans-serif
-  
+  font-family: "Raleway", sans-serif;
 }
 .header-logo-2-footer {
   font-weight: 800;
   font-size: 18px;
-  line-height: 21px;
+  line-height: 1.16;
   display: flex;
   align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #f4f4fd;
+  color: #2e2f42;
 }
 .footer-text {
   font-weight: 400;
