@@ -1,10 +1,11 @@
 /*----------------------------------------FOR-ALL---------------------------------------------------------------*/
-.body {
+:root {
+
+}
+body {
   background: #ffffff;
   font-family: 'Roboto', sans-serif;
   color: #434455;
-}
-:root {
 }
 .list {
   list-style: none; /*чтобы скинуть маркер*/
