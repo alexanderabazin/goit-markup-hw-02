@@ -1,8 +1,8 @@
 /*----------------------------------------FOR-ALL---------------------------------------------------------------*/
 .body {
-  background: #FFFFFF;
-  font-family: "Roboto", sans-serif;
-  color: #434455
+  background: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  color: #434455;
 }
 :root {
 }
@@ -26,7 +26,7 @@
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   text-transform: uppercase;
 }
 .header-logo-2 {
@@ -35,7 +35,7 @@
   line-height: 1.17;
   letter-spacing: 0.03em;
   color: #2e2f42;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   text-transform: uppercase;
 }
 .header-item {
@@ -113,6 +113,7 @@
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  background-color: #ffffff;
 }
 .teamlist-story {
 }
@@ -137,7 +138,7 @@
 .hero-section-portfolio {
   background: linear-gradient(0deg, #e7e9fc, #e7e9fc),
     linear-gradient(0deg, #ffffff, #ffffff);
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 .hero-title {
   font-weight: 700;
@@ -159,19 +160,18 @@
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   text-transform: uppercase;
 }
 .footer-logo-2 {
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
-  
-  
+
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 .footer-description {
   font-weight: 400;
@@ -180,31 +180,34 @@
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
-.hero-section-portfolio-title{}
-.hero-section-portfolio-list{}
-.img-list-portfolio{}
-.img-items-list-portfolio{}
-.title-img-list{
-font-weight: 500;
-font-size: 20px;
-line-height: 1.2;
-letter-spacing: 0.02em;
-color: #2E2F42;
+.hero-section-portfolio-title {
 }
-.portfolio-list-description{
-    font-weight: 400;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #434455;
+.hero-section-portfolio-list {
 }
-.hero-section-portfolio-btn-list{
-  
+.img-list-portfolio {
+}
+.img-items-list-portfolio {
+}
+.title-img-list {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.portfolio-list-description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.hero-section-portfolio-btn-list {
 }
 /*------------------------------------------------BUTTON-INDEX--------------------------------------------------*/
 
 .header-button {
- font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -215,31 +218,32 @@ color: #434455;
   cursor: pointer;
 }
 .header-button:hover {
-  background-color: #404bbf; 
+  background-color: #404bbf;
 }
 .header-button:focus {
-  background-color: #404BBF
+  background-color: #404bbf;
 }
 
 /*---------------------------------------------BUTTON-PORTFOLIO-------------------------------------------------*/
-.hero-section-portfolio-btn{
-    font-family: "Roboto",sans-serif;
-    font-weight: 500;
-font-size: 16px;
-line-height: 1.5;
+.hero-section-portfolio-btn {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
 
-text-align: center;
-letter-spacing: 0.04em;
-color: #4d5ae5 ;  
-background-color: #F4F4FD;
-cursor: pointer;
-
+  text-align: center;
+  letter-spacing: 0.04em;
+  color: #4d5ae5;
+  background-color: #f4f4fd;
+  cursor: pointer;
 }
-.hero-section-portfolio-btn:hover{
-   background-color: #FFFFFF;
+.hero-section-portfolio-btn:hover {
+  color: #ffffff;
+  background-color: #404bbf;
 }
-.hero-section-portfolio-btn:focus{
-  background-color: #FFFFFF;
+.hero-section-portfolio-btn:focus {
+  color: #ffffff;
+  background-color: #404bbf;
 }
 /*------------------------------------------------SECTION-INDEX-------------------------------------------------*/
 .hero-section {
@@ -255,7 +259,7 @@ cursor: pointer;
   background-color: #ffffff;
 }
 .team-section {
-  background-color: #F4F4FD;
+  background-color: #f4f4fd;
 }
 /*-----------------------------------------------SECTION-PORTFOLIO----------------------------------------------*/
 .web-concept {
