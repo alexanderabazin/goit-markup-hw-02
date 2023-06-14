@@ -1,5 +1,7 @@
 /*----------------------------------------FOR-ALL---------------------------------------------------------------*/
 :root {
+  --background-color:var(#ffffff);
+  --text-color:var(#434455);
 }
 .body {
   background: #ffffff;
