@@ -1,8 +1,8 @@
 /*----------------------------------------FOR-ALL---------------------------------------------------------------*/
 .body {
-  background: linear-gradient(0deg, #e7e9fc, #e7e9fc),
-    linear-gradient(0deg, #ffffff, #ffffff);
+  background: #FFFFFF;
   font-family: "Roboto", sans-serif;
+  color: #434455
 }
 :root {
 }
@@ -96,7 +96,7 @@
 .specific-name {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.1;
+  line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
@@ -107,6 +107,12 @@
 .specific-item {
 }
 .teamlist {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
 .teamlist-story {
 }
@@ -160,8 +166,8 @@
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
-  display: flex;
-  align-items: center;
+  
+  
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
@@ -198,7 +204,7 @@ color: #434455;
 /*------------------------------------------------BUTTON-INDEX--------------------------------------------------*/
 
 .header-button {
-  font-family: "Roboto";
+ font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -209,17 +215,19 @@ color: #434455;
   cursor: pointer;
 }
 .header-button:hover {
-  background-color: #404bbf;
+  background-color: #404bbf; 
+}
+.header-button:focus {
+  background-color: #404BBF
 }
 
 /*---------------------------------------------BUTTON-PORTFOLIO-------------------------------------------------*/
 .hero-section-portfolio-btn{
-    font-family: "Roboto";
+    font-family: "Roboto",sans-serif;
     font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
-display: flex;
-align-items: center;
+
 text-align: center;
 letter-spacing: 0.04em;
 color: #4d5ae5 ;  
@@ -228,10 +236,10 @@ cursor: pointer;
 
 }
 .hero-section-portfolio-btn:hover{
-   background-color: #404BBF;
+   background-color: #FFFFFF;
 }
 .hero-section-portfolio-btn:focus{
-  background-color: #404BBF
+  background-color: #FFFFFF;
 }
 /*------------------------------------------------SECTION-INDEX-------------------------------------------------*/
 .hero-section {
@@ -247,7 +255,7 @@ cursor: pointer;
   background-color: #ffffff;
 }
 .team-section {
-  background-color: #f4f4f4;
+  background-color: #F4F4FD;
 }
 /*-----------------------------------------------SECTION-PORTFOLIO----------------------------------------------*/
 .web-concept {
