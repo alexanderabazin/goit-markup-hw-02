@@ -1,7 +1,7 @@
 /*----------------------------------------FOR-ALL---------------------------------------------------------------*/
 :root {
-  --background-color:var(#ffffff);
-  --text-color:var(#434455);
+  --background-color: var(#ffffff);
+  --text-color: var(#434455);
 }
 .body {
   background: #ffffff;
@@ -115,13 +115,12 @@
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 .teamlist-story {
-  
 }
 .teamlist-item {
-  background-color:#FFFFFF;
+  background-color: #ffffff;
 }
 .teamlist-specific {
   font-weight: 500;
